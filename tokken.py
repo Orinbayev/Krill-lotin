@@ -1,0 +1,1 @@
+bot = '7034821402:AAHJfkthoTPEb7rbYP_4sPpp5DjKV_Sn6yI'
